@@ -1,0 +1,1 @@
+Currently learning HTML, CSS using the OdinProject
